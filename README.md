@@ -147,4 +147,4 @@ microfinance_app/
 ## Author
 
 **Maureen Obiekwe**
-[GitHub](https://github.com/maureenobiekwe) · [Portfolio](https://qamaureenobiekwe.vercel.app)# microfinance_app
+[GitHub](https://github.com/maureenobiekwe) · [Portfolio](https://maureenobiekwe.com)# microfinance_app
